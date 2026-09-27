@@ -1,212 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <url>
-    <loc>https://sattamatkakalyan.online/</loc>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-
-  <url>
-    <loc>https://sattamatkakalyan.online/results/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://sattamatkakalyan.online/calendar/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://sattamatkakalyan.online/archive/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://sattamatkakalyan.online/nagaland-lottery-old-result/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://sattamatkakalyan.online/verification/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://sattamatkakalyan.online/sources/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <url>
-    <loc>https://sattamatkakalyan.online/guides/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://sattamatkakalyan.online/faq/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <url>
-    <loc>https://sattamatkakalyan.online/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-
-  <url>
-    <loc>https://sattamatkakalyan.online/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-
-  <url>
-    <loc>https://sattamatkakalyan.online/privacy-policy/</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
-  </url>
-
-  <url>
-    <loc>https://sattamatkakalyan.online/terms/</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
-  </url>
-
-  <url>
-    <loc>https://sattamatkakalyan.online/disclaimer/</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
-  </url>
-
-  <url>
-    <loc>https://sattamatkakalyan.online/archive/2026/01/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sattamatkakalyan.online/archive/2026/02/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sattamatkakalyan.online/archive/2026/03/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sattamatkakalyan.online/archive/2026/04/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sattamatkakalyan.online/archive/2026/05/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sattamatkakalyan.online/archive/2026/06/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sattamatkakalyan.online/archive/2026/07/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sattamatkakalyan.online/archive/2026/08/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sattamatkakalyan.online/archive/2026/09/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sattamatkakalyan.online/archive/2026/10/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sattamatkakalyan.online/archive/2026/11/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sattamatkakalyan.online/archive/2026/12/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://sattamatkakalyan.online/guides/how-to-check-result/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sattamatkakalyan.online/guides/result-archive/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sattamatkakalyan.online/guides/official-sources/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sattamatkakalyan.online/guides/result-calendar/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <url>
-    <loc>https://sattamatkakalyan.online/articles/</loc>
-    <lastmod>2026-09-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://sattamatkakalyan.online/articles/how-to-check-nagaland-lottery-result/</loc>
-    <lastmod>2026-09-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <url>
-    <loc>https://sattamatkakalyan.online/articles/nagaland-lottery-result-history/</loc>
-    <lastmod>2026-09-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <url>
-    <loc>https://sattamatkakalyan.online/articles/how-to-verify-lottery-result/</loc>
-    <lastmod>2026-09-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <url>
-    <loc>https://sattamatkakalyan.online/articles/nagaland-lottery-result-calendar-guide/</loc>
-    <lastmod>2026-09-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <url>
-    <loc>https://sattamatkakalyan.online/articles/how-to-find-old-lottery-results/</loc>
-    <lastmod>2026-09-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
+  <url><loc>https://sattamatkakalyan.online/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://sattamatkakalyan.online/results/</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://sattamatkakalyan.online/calendar/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sattamatkakalyan.online/archive/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sattamatkakalyan.online/nagaland-lottery-old-result/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sattamatkakalyan.online/verification/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sattamatkakalyan.online/sources/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://sattamatkakalyan.online/guides/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sattamatkakalyan.online/faq/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://sattamatkakalyan.online/about/</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://sattamatkakalyan.online/contact/</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://sattamatkakalyan.online/privacy-policy/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://sattamatkakalyan.online/terms/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://sattamatkakalyan.online/disclaimer/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://sattamatkakalyan.online/archive/2026/01/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sattamatkakalyan.online/archive/2026/02/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sattamatkakalyan.online/archive/2026/03/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sattamatkakalyan.online/archive/2026/04/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sattamatkakalyan.online/archive/2026/05/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sattamatkakalyan.online/archive/2026/06/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sattamatkakalyan.online/archive/2026/07/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sattamatkakalyan.online/archive/2026/08/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sattamatkakalyan.online/archive/2026/09/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sattamatkakalyan.online/archive/2026/10/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sattamatkakalyan.online/archive/2026/11/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sattamatkakalyan.online/archive/2026/12/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sattamatkakalyan.online/guides/how-to-check-result/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://sattamatkakalyan.online/guides/result-archive/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://sattamatkakalyan.online/guides/official-sources/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://sattamatkakalyan.online/guides/result-calendar/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://sattamatkakalyan.online/articles/</loc><lastmod>2026-09-27</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sattamatkakalyan.online/articles/how-to-check-nagaland-lottery-result/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://sattamatkakalyan.online/articles/nagaland-lottery-result-history/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://sattamatkakalyan.online/articles/how-to-verify-lottery-result/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://sattamatkakalyan.online/articles/nagaland-lottery-result-calendar-guide/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://sattamatkakalyan.online/articles/how-to-find-old-lottery-results/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://sattamatkakalyan.online/articles/how-to-claim-nagaland-lottery-prize/</loc><lastmod>2026-09-27</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://sattamatkakalyan.online/articles/nagaland-lottery-prize-claim-documents/</loc><lastmod>2026-09-27</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://sattamatkakalyan.online/articles/how-to-check-old-nagaland-lottery-result-by-date/</loc><lastmod>2026-09-27</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://sattamatkakalyan.online/articles/how-to-read-nagaland-lottery-result-pdf/</loc><lastmod>2026-09-27</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://sattamatkakalyan.online/articles/dear-lottery-vs-lottery-sambad/</loc><lastmod>2026-09-27</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 </urlset>
